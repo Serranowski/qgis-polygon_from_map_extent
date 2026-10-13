@@ -3,7 +3,7 @@
 # This file should be included when you package your plugin.# Mandatory items:
 
 [general]
-[general]
+
 name=Polygon from map extent
 qgisMinimumVersion=3.0
 qgisMaximumVersion=4.99
